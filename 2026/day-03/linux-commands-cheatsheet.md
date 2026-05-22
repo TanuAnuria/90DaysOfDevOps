@@ -37,9 +37,13 @@ wget - to download the files from internet
 ss -tulnp or netstat -tulnp - to check the port
 
 curl - client url (to interact with api's and website directly)
+
 ifconfig and ip a - to check the ip address
+
 nslookup or dig - to obtain information about domain names , ip address and other dns records (name server lookup)
+
 ps - to view the processes
+
 whoami - current user
 
 
