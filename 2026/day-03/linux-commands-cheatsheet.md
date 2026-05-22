@@ -1,7 +1,9 @@
 Most used Linux commands
 
-ls - list the current files and folders \n
+ls - list the current files and folders
+
 pwd - print working directory \n
+
 cd - change directory
 cat - to view the content of file
 touch - to create the empty file
